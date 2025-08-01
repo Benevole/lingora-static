@@ -41,6 +41,31 @@
             opacity: 0.9;
         }
 
+        .search-container {
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .search-input {
+            width: 100%;
+            max-width: 400px;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 25px;
+            font-size: 16px;
+            background: rgba(255,255,255,0.9);
+            backdrop-filter: blur(10px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            background: white;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+            transform: translateY(-2px);
+        }
+
         .textbooks-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -175,6 +200,10 @@
             <p>探索丰富的英语学习资源，助力您的语言学习之旅</p>
         </div>
 
+        <div class="search-container">
+            <input type="text" class="search-input" placeholder="搜索教材..." id="searchInput">
+        </div>
+
         <div id="content">
             <div class="textbooks-grid">
                 <div class="textbook-card" onclick="loadTextbook('1', '新雅思')">
@@ -209,11 +238,82 @@
                     <h3>📖 新概念</h3>
                     <p>经典新概念英语教材，系统性的英语学习体系</p>
                 </div>
+                <div class="textbook-card" onclick="loadTextbook('9', '阿卡索会话天地')">
+                    <h3>🗣️ 阿卡索会话天地</h3>
+                    <p>阿卡索英语会话练习，提升口语交际能力</p>
+                </div>
+                <div class="textbook-card" onclick="loadTextbook('10', '彩虹英语')">
+                    <h3>🌈 彩虹英语</h3>
+                    <p>彩虹英语系列教材，系统化的英语学习课程</p>
+                </div>
             </div>
         </div>
     </div>
 
     <script>
+        const allTextbooks = [
+            {
+                id: '1',
+                name: '新雅思',
+                description: '雅思考试备考教材，包含口语、听力、阅读、写作全方位训练',
+                icon: '🎯'
+            },
+            {
+                id: '2',
+                name: '经典英语青少年',
+                description: '专为青少年设计的英语学习教材，从基础到高级的完整体系',
+                icon: '👦'
+            },
+            {
+                id: '3',
+                name: '国际认证少年英语高级',
+                description: '国际认证的少年英语高级课程，提升英语综合能力',
+                icon: '🏆'
+            },
+            {
+                id: '4',
+                name: '自然拼读',
+                description: '自然拼读法学习，掌握英语发音规律和拼读技巧',
+                icon: '🔤'
+            },
+            {
+                id: '5',
+                name: '西游记',
+                description: '经典名著《西游记》英语版，寓教于乐的英语学习',
+                icon: '🐒'
+            },
+            {
+                id: '6',
+                name: '小猪佩奇',
+                description: '小猪佩奇英语学习课件，适合儿童英语启蒙',
+                icon: '🐷'
+            },
+            {
+                id: '7',
+                name: '自由主题',
+                description: '自由主题英语会话练习，提升口语表达能力',
+                icon: '💬'
+            },
+            {
+                id: '8',
+                name: '新概念',
+                description: '经典新概念英语教材，系统性的英语学习体系',
+                icon: '📖'
+            },
+            {
+                id: '9',
+                name: '阿卡索会话天地',
+                description: '阿卡索英语会话练习，提升口语交际能力',
+                icon: '🗣️'
+            },
+            {
+                id: '10',
+                name: '彩虹英语',
+                description: '彩虹英语系列教材，系统化的英语学习课程',
+                icon: '🌈'
+            }
+        ];
+
         const textbooks = {
             '1': 'textbook_1_1新雅思.json',
             '2': 'textbook_2_2经典英语青少年.json',
@@ -222,7 +322,9 @@
             '5': 'textbook_5_5西游记.json',
             '6': 'textbook_6_6小猪佩奇.json',
             '7': 'textbook_7_7自由主题.json',
-            '8': 'textbook_8_新概念.json'
+            '8': 'textbook_8_新概念.json',
+            '9': 'textbook_9_阿卡索会话天地.json',
+            '10': 'textbook_10_彩虹英语.json'
         };
 
         async function loadTextbook(id, name) {
@@ -236,6 +338,8 @@
                 }
                 
                 const data = await response.json();
+                currentData = data;
+                currentPath = [name];
                 showTextbookView(data, name);
             } catch (error) {
                 alert('加载教材数据失败，请稍后重试');
@@ -244,6 +348,10 @@
 
         function showTextbookView(data, name) {
             const content = document.getElementById('content');
+            const searchInput = document.getElementById('searchInput');
+            
+            searchInput.placeholder = '搜索文件...';
+            currentView = 'textbook';
             
             const directories = data.filter(item => !item.link && item.parentCode !== '0');
             const files = data.filter(item => item.link);
@@ -267,13 +375,127 @@
             `;
         }
 
+        let currentData = null;
+        let currentPath = [];
+        let currentView = 'main';
+
+        // 初始化搜索功能
+        document.addEventListener('DOMContentLoaded', function() {
+            setupSearch();
+        });
+
+        function setupSearch() {
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', function(e) {
+                const query = e.target.value.toLowerCase();
+                if (currentView === 'main') {
+                    filterTextbooks(query);
+                } else {
+                    filterFiles(query);
+                }
+            });
+        }
+
+        function filterTextbooks(query) {
+            const filtered = allTextbooks.filter(textbook => 
+                textbook.name.toLowerCase().includes(query) ||
+                textbook.description.toLowerCase().includes(query)
+            );
+            renderTextbooks(filtered);
+        }
+
+        function renderTextbooks(textbooksToShow) {
+            const content = document.getElementById('content');
+            const searchInput = document.getElementById('searchInput');
+            
+            searchInput.placeholder = '搜索教材...';
+            currentView = 'main';
+            
+            content.innerHTML = `
+                <div class="textbooks-grid">
+                    ${textbooksToShow.map(textbook => `
+                        <div class="textbook-card" onclick="loadTextbook('${textbook.id}', '${textbook.name}')">
+                            <h3>${textbook.icon} ${textbook.name}</h3>
+                            <p>${textbook.description}</p>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        function filterFiles(query) {
+            if (!currentData) return;
+            
+            const filtered = currentData.filter(item => 
+                item.name.toLowerCase().includes(query)
+            );
+            
+            if (currentView === 'textbook') {
+                showTextbookView(filtered, currentPath[0]);
+            } else if (currentView === 'directory') {
+                showDirectoryView(filtered, currentPath[currentPath.length - 1]);
+            }
+        }
+
         function navigateToDirectory(code, name) {
-            // 这里可以添加导航到子目录的逻辑
-            alert('正在开发中...');
+            if (!currentData) return;
+            
+            currentPath.push(name);
+            
+            const children = currentData.filter(item => item.parentCode === code);
+            
+            if (children.length === 0) return;
+            
+            showDirectoryView(children, name);
+        }
+
+        function showDirectoryView(data, name) {
+            const content = document.getElementById('content');
+            const searchInput = document.getElementById('searchInput');
+            
+            searchInput.placeholder = '搜索文件...';
+            currentView = 'directory';
+            
+            const directories = data.filter(item => !item.link);
+            const files = data.filter(item => item.link);
+            
+            content.innerHTML = `
+                <button class="back-button" onclick="goBack()">← 返回上级</button>
+                <h2 style="color: white; margin-bottom: 20px;">${name}</h2>
+                <div class="file-list">
+                    ${directories.map(dir => `
+                        <div class="file-item" onclick="navigateToDirectory('${dir.code}', '${dir.name}')">
+                            <span class="file-name">📁 ${dir.name}</span>
+                        </div>
+                    `).join('')}
+                    ${files.map(file => `
+                        <div class="file-item">
+                            <span class="file-name">📄 ${file.name}</span>
+                            <a href="${file.link}" target="_blank" class="file-link">查看</a>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        function goBack() {
+            if (currentPath.length > 1) {
+                currentPath.pop();
+                const parentCode = currentPath.length === 1 ? '1' : currentData.find(item => item.name === currentPath[currentPath.length - 2])?.code;
+                if (parentCode) {
+                    const children = currentData.filter(item => item.parentCode === parentCode);
+                    showDirectoryView(children, currentPath[currentPath.length - 1]);
+                }
+            } else {
+                showMainView();
+            }
         }
 
         function showMainView() {
-            location.reload();
+            currentView = 'main';
+            currentPath = [];
+            currentData = null;
+            renderTextbooks(allTextbooks);
         }
     </script>
 </body>
