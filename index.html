@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lingora 英语教材库</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            color: white;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .textbooks-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .textbook-card {
+            background: rgba(255,255,255,0.95);
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .textbook-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+        }
+
+        .textbook-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+        }
+
+        .textbook-card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+            color: #2c3e50;
+        }
+
+        .textbook-card p {
+            color: #7f8c8d;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+
+        .back-button {
+            background: rgba(255,255,255,0.2);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1rem;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .back-button:hover {
+            background: rgba(255,255,255,0.3);
+        }
+
+        .file-list {
+            background: rgba(255,255,255,0.95);
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+
+        .file-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 15px;
+            border-radius: 8px;
+            margin-bottom: 8px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .file-item:hover {
+            background: rgba(102, 126, 234, 0.1);
+        }
+
+        .file-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .file-name {
+            flex: 1;
+            color: #2c3e50;
+        }
+
+        .file-link {
+            color: #667eea;
+            text-decoration: none;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .file-link:hover {
+            opacity: 1;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .textbooks-grid {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+
+            .textbook-card {
+                padding: 20px;
+            }
+
+            .textbook-card h3 {
+                font-size: 1.2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 Lingora 英语教材库</h1>
+            <p>探索丰富的英语学习资源，助力您的语言学习之旅</p>
+        </div>
+
+        <div id="content">
+            <div class="textbooks-grid">
+                <div class="textbook-card" onclick="loadTextbook('1', '新雅思')">
+                    <h3>🎯 新雅思</h3>
+                    <p>雅思考试备考教材，包含口语、听力、阅读、写作全方位训练</p>
+                </div>
+                <div class="textbook-card" onclick="loadTextbook('2', '经典英语青少年')">
+                    <h3>👦 经典英语青少年</h3>
+                    <p>专为青少年设计的英语学习教材，从基础到高级的完整体系</p>
+                </div>
+                <div class="textbook-card" onclick="loadTextbook('3', '国际认证少年英语高级')">
+                    <h3>🏆 国际认证少年英语高级</h3>
+                    <p>国际认证的少年英语高级课程，提升英语综合能力</p>
+                </div>
+                <div class="textbook-card" onclick="loadTextbook('4', '自然拼读')">
+                    <h3>🔤 自然拼读</h3>
+                    <p>自然拼读法学习，掌握英语发音规律和拼读技巧</p>
+                </div>
+                <div class="textbook-card" onclick="loadTextbook('5', '西游记')">
+                    <h3>🐒 西游记</h3>
+                    <p>经典名著《西游记》英语版，寓教于乐的英语学习</p>
+                </div>
+                <div class="textbook-card" onclick="loadTextbook('6', '小猪佩奇')">
+                    <h3>🐷 小猪佩奇</h3>
+                    <p>小猪佩奇英语学习课件，适合儿童英语启蒙</p>
+                </div>
+                <div class="textbook-card" onclick="loadTextbook('7', '自由主题')">
+                    <h3>💬 自由主题</h3>
+                    <p>自由主题英语会话练习，提升口语表达能力</p>
+                </div>
+                <div class="textbook-card" onclick="loadTextbook('8', '新概念')">
+                    <h3>📖 新概念</h3>
+                    <p>经典新概念英语教材，系统性的英语学习体系</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const textbooks = {
+            '1': 'textbook_1_1新雅思.json',
+            '2': 'textbook_2_2经典英语青少年.json',
+            '3': 'textbook_3_3国际认证少年英语高级.json',
+            '4': 'textbook_4_4自然拼读.json',
+            '5': 'textbook_5_5西游记.json',
+            '6': 'textbook_6_6小猪佩奇.json',
+            '7': 'textbook_7_7自由主题.json',
+            '8': 'textbook_8_新概念.json'
+        };
+
+        async function loadTextbook(id, name) {
+            const jsonFile = textbooks[id];
+            if (!jsonFile) return;
+
+            try {
+                const response = await fetch(jsonFile);
+                if (!response.ok) {
+                    throw new Error('Failed to load textbook data');
+                }
+                
+                const data = await response.json();
+                showTextbookView(data, name);
+            } catch (error) {
+                alert('加载教材数据失败，请稍后重试');
+            }
+        }
+
+        function showTextbookView(data, name) {
+            const content = document.getElementById('content');
+            
+            const directories = data.filter(item => !item.link && item.parentCode !== '0');
+            const files = data.filter(item => item.link);
+            
+            content.innerHTML = `
+                <button class="back-button" onclick="showMainView()">← 返回教材列表</button>
+                <h2 style="color: white; margin-bottom: 20px;">${name}</h2>
+                <div class="file-list">
+                    ${directories.map(dir => `
+                        <div class="file-item" onclick="navigateToDirectory('${dir.code}', '${dir.name}')">
+                            <span class="file-name">📁 ${dir.name}</span>
+                        </div>
+                    `).join('')}
+                    ${files.map(file => `
+                        <div class="file-item">
+                            <span class="file-name">📄 ${file.name}</span>
+                            <a href="${file.link}" target="_blank" class="file-link">查看</a>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        function navigateToDirectory(code, name) {
+            // 这里可以添加导航到子目录的逻辑
+            alert('正在开发中...');
+        }
+
+        function showMainView() {
+            location.reload();
+        }
+    </script>
+</body>
+</html>
