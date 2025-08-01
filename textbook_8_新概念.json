@@ -1,0 +1,2515 @@
+[
+  {
+    "code": "1",
+    "parentCode": "0",
+    "type": "TEXTBOOK",
+    "name": "8新概念",
+    "link": null
+  },
+  {
+    "code": "1-1",
+    "parentCode": "1",
+    "type": "TEXTBOOK",
+    "name": "1册上",
+    "link": null
+  },
+  {
+    "code": "1-1-1",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "1.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F1.pdf"
+  },
+  {
+    "code": "1-1-2",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "2.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F2.pdf"
+  },
+  {
+    "code": "1-1-3",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "3.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F3.pdf"
+  },
+  {
+    "code": "1-1-4",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "4.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F4.pdf"
+  },
+  {
+    "code": "1-1-5",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "5.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F5.pdf"
+  },
+  {
+    "code": "1-1-6",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "6.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F6.pdf"
+  },
+  {
+    "code": "1-1-7",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "7.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F7.pdf"
+  },
+  {
+    "code": "1-1-8",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "8.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F8.pdf"
+  },
+  {
+    "code": "1-1-9",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "9.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F9.pdf"
+  },
+  {
+    "code": "1-1-10",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "10.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F10.pdf"
+  },
+  {
+    "code": "1-1-11",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "11.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F11.pdf"
+  },
+  {
+    "code": "1-1-12",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "12.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F12.pdf"
+  },
+  {
+    "code": "1-1-13",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "13.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F13.pdf"
+  },
+  {
+    "code": "1-1-14",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "14.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F14.pdf"
+  },
+  {
+    "code": "1-1-15",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "15.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F15.pdf"
+  },
+  {
+    "code": "1-1-16",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "16.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F16.pdf"
+  },
+  {
+    "code": "1-1-17",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "17.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F17.pdf"
+  },
+  {
+    "code": "1-1-18",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "18.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F18.pdf"
+  },
+  {
+    "code": "1-1-19",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "19.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F19.pdf"
+  },
+  {
+    "code": "1-1-20",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "20.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F20.pdf"
+  },
+  {
+    "code": "1-1-21",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "21.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F21.pdf"
+  },
+  {
+    "code": "1-1-22",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "22.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F22.pdf"
+  },
+  {
+    "code": "1-1-23",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "23.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F23.pdf"
+  },
+  {
+    "code": "1-1-24",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "24.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F24.pdf"
+  },
+  {
+    "code": "1-1-25",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "25.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F25.pdf"
+  },
+  {
+    "code": "1-1-26",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "26unit2 review.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F26unit2%20review.pdf"
+  },
+  {
+    "code": "1-1-27",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "27.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F27.pdf"
+  },
+  {
+    "code": "1-1-28",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "28.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F28.pdf"
+  },
+  {
+    "code": "1-1-29",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "29.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F29.pdf"
+  },
+  {
+    "code": "1-1-30",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "30.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F30.pdf"
+  },
+  {
+    "code": "1-1-31",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "31.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F31.pdf"
+  },
+  {
+    "code": "1-1-32",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "32.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F32.pdf"
+  },
+  {
+    "code": "1-1-33",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "33.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F33.pdf"
+  },
+  {
+    "code": "1-1-34",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "34.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F34.pdf"
+  },
+  {
+    "code": "1-1-35",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "35.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F35.pdf"
+  },
+  {
+    "code": "1-1-36",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "36.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F36.pdf"
+  },
+  {
+    "code": "1-1-37",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "37.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F37.pdf"
+  },
+  {
+    "code": "1-1-38",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "38.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F38.pdf"
+  },
+  {
+    "code": "1-1-39",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "39 midterm exam.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F39%20midterm%20exam.pdf"
+  },
+  {
+    "code": "1-1-40",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "39unit3 review.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F39unit3%20review.pdf"
+  },
+  {
+    "code": "1-1-41",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "40.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F40.pdf"
+  },
+  {
+    "code": "1-1-42",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "41.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F41.pdf"
+  },
+  {
+    "code": "1-1-43",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "42.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F42.pdf"
+  },
+  {
+    "code": "1-1-44",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "43.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F43.pdf"
+  },
+  {
+    "code": "1-1-45",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "44.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F44.pdf"
+  },
+  {
+    "code": "1-1-46",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "45.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F45.pdf"
+  },
+  {
+    "code": "1-1-47",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "46.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F46.pdf"
+  },
+  {
+    "code": "1-1-48",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "47.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F47.pdf"
+  },
+  {
+    "code": "1-1-49",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "48.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F48.pdf"
+  },
+  {
+    "code": "1-1-50",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "49.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F49.pdf"
+  },
+  {
+    "code": "1-1-51",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "50.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F50.pdf"
+  },
+  {
+    "code": "1-1-52",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "51.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F51.pdf"
+  },
+  {
+    "code": "1-1-53",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "52unit4review.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F52unit4review.pdf"
+  },
+  {
+    "code": "1-1-54",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "53.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F53.pdf"
+  },
+  {
+    "code": "1-1-55",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "54.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F54.pdf"
+  },
+  {
+    "code": "1-1-56",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "55.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F55.pdf"
+  },
+  {
+    "code": "1-1-57",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "56.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F56.pdf"
+  },
+  {
+    "code": "1-1-58",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "57.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F57.pdf"
+  },
+  {
+    "code": "1-1-59",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "58.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F58.pdf"
+  },
+  {
+    "code": "1-1-60",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "59.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F59.pdf"
+  },
+  {
+    "code": "1-1-61",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "60.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F60.pdf"
+  },
+  {
+    "code": "1-1-62",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "61.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F61.pdf"
+  },
+  {
+    "code": "1-1-63",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "62.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F62.pdf"
+  },
+  {
+    "code": "1-1-64",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "63.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F63.pdf"
+  },
+  {
+    "code": "1-1-65",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "64.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F64.pdf"
+  },
+  {
+    "code": "1-1-66",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "65unit5review.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F65unit5review.pdf"
+  },
+  {
+    "code": "1-1-67",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "66.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F66.pdf"
+  },
+  {
+    "code": "1-1-68",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "67.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F67.pdf"
+  },
+  {
+    "code": "1-1-69",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "68.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F68.pdf"
+  },
+  {
+    "code": "1-1-70",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "69.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F69.pdf"
+  },
+  {
+    "code": "1-1-71",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "70.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F70.pdf"
+  },
+  {
+    "code": "1-1-72",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "71.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F71.pdf"
+  },
+  {
+    "code": "1-1-73",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "72.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F72.pdf"
+  },
+  {
+    "code": "1-1-74",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "73.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F73.pdf"
+  },
+  {
+    "code": "1-1-75",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "74.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F74.pdf"
+  },
+  {
+    "code": "1-1-76",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "75.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F75.pdf"
+  },
+  {
+    "code": "1-1-77",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "76.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F76.pdf"
+  },
+  {
+    "code": "1-1-78",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "77.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F77.pdf"
+  },
+  {
+    "code": "1-1-79",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "78final test.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F78final%20test.pdf"
+  },
+  {
+    "code": "1-1-80",
+    "parentCode": "1-1",
+    "type": "TEXTBOOK",
+    "name": "78.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8A%2F78.pdf"
+  },
+  {
+    "code": "1-2",
+    "parentCode": "1",
+    "type": "TEXTBOOK",
+    "name": "1册下",
+    "link": null
+  },
+  {
+    "code": "1-2-1",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L1The way to King Street.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL1The%20way%20to%20King%20Street.pdf"
+  },
+  {
+    "code": "1-2-2",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L2 What did they do.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL2%20What%20did%20they%20do.pdf"
+  },
+  {
+    "code": "1-2-3",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L3 Uncomfortable shoes.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL3%20Uncomfortable%20shoes.pdf"
+  },
+  {
+    "code": "1-2-4",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L4 when did you.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL4%20when%20did%20you.pdf"
+  },
+  {
+    "code": "1-2-5",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L5 Terrible toothache.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL5%20Terrible%20toothache.pdf"
+  },
+  {
+    "code": "1-2-6",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L6 when did you.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL6%20when%20did%20you.pdf"
+  },
+  {
+    "code": "1-2-7",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L7 Carol's shopping list.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL7%20Carol%27s%20shopping%20list.pdf"
+  },
+  {
+    "code": "1-2-8",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L8 I must go to the.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL8%20I%20must%20go%20to%20the.pdf"
+  },
+  {
+    "code": "1-2-9",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L9 Roast Beef and potatoes.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL9%20Roast%20Beef%20and%20potatoes.pdf"
+  },
+  {
+    "code": "1-2-10",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L10 I had.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL10%20I%20had.pdf"
+  },
+  {
+    "code": "1-2-11",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L11review1.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL11review1.pdf"
+  },
+  {
+    "code": "1-2-12",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L12 Going on holiday.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL12%20Going%20on%20holiday.pdf"
+  },
+  {
+    "code": "1-2-13",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L13 Have you had.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL13%20Have%20you%20had.pdf"
+  },
+  {
+    "code": "1-2-14",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L14 Paris in the spring 巴黎之春.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL14%20Paris%20in%20the%20spring%20%E5%B7%B4%E9%BB%8E%E4%B9%8B%E6%98%A5.pdf"
+  },
+  {
+    "code": "1-2-15",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L15 What have you done 你已经做了什么.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL15%20What%20have%20you%20done%20%E4%BD%A0%E5%B7%B2%E7%BB%8F%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88.pdf"
+  },
+  {
+    "code": "1-2-16",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L16 A car crash车祸.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL16%20A%20car%20crash%E8%BD%A6%E7%A5%B8.pdf"
+  },
+  {
+    "code": "1-2-17",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L17 Have you ..yet 你已经..了吗.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL17%20Have%20you%20..yet%20%E4%BD%A0%E5%B7%B2%E7%BB%8F..%E4%BA%86%E5%90%97.pdf"
+  },
+  {
+    "code": "1-2-18",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L18 For sale 待售.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL18%20For%20sale%20%E5%BE%85%E5%94%AE.pdf"
+  },
+  {
+    "code": "1-2-19",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L19 Have you ..yet 你已经..了吗？.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL19%20Have%20you%20..yet%20%E4%BD%A0%E5%B7%B2%E7%BB%8F..%E4%BA%86%E5%90%97%EF%BC%9F.pdf"
+  },
+  {
+    "code": "1-2-20",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L20 Poor Ian 可怜的伊恩！.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL20%20Poor%20Ian%20%E5%8F%AF%E6%80%9C%E7%9A%84%E4%BC%8A%E6%81%A9%EF%BC%81.pdf"
+  },
+  {
+    "code": "1-2-21",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L21 When will什么时候要？.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL21%20When%20will%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%A6%81%EF%BC%9F.pdf"
+  },
+  {
+    "code": "1-2-22",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L22 Our new neighbor 我们的新邻居.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL22%20Our%20new%20neighbor%20%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E9%82%BB%E5%B1%85.pdf"
+  },
+  {
+    "code": "1-2-23",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L23 When will you go to 你将在什么时候去.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL23%20When%20will%20you%20go%20to%20%E4%BD%A0%E5%B0%86%E5%9C%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8E%BB.pdf"
+  },
+  {
+    "code": "1-2-24",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L24 REVIEW 2.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL24%20REVIEW%202.pdf"
+  },
+  {
+    "code": "1-2-25",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L25 Tickets ,Please请把车票拿出来.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL25%20Tickets%20%2CPlease%E8%AF%B7%E6%8A%8A%E8%BD%A6%E7%A5%A8%E6%8B%BF%E5%87%BA%E6%9D%A5.pdf"
+  },
+  {
+    "code": "1-2-26",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L26 whats the exact time 确切的时间是几点.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL26%20whats%20the%20exact%20time%20%E7%A1%AE%E5%88%87%E7%9A%84%E6%97%B6%E9%97%B4%E6%98%AF%E5%87%A0%E7%82%B9.pdf"
+  },
+  {
+    "code": "1-2-27",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L27 Asmall blue case 一个蓝色的小箱子.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL27%20Asmall%20blue%20case%20%E4%B8%80%E4%B8%AA%E8%93%9D%E8%89%B2%E7%9A%84%E5%B0%8F%E7%AE%B1%E5%AD%90.pdf"
+  },
+  {
+    "code": "1-2-28",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L28Whose is it Whose are they它是谁的它们是谁的.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL28Whose%20is%20it%20Whose%20are%20they%E5%AE%83%E6%98%AF%E8%B0%81%E7%9A%84%E5%AE%83%E4%BB%AC%E6%98%AF%E8%B0%81%E7%9A%84.pdf"
+  },
+  {
+    "code": "1-2-29",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L29 OW啊哟.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL29%20OW%E5%95%8A%E5%93%9F.pdf"
+  },
+  {
+    "code": "1-2-30",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L30He shesays thatt她 他 他们说.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL30He%20shesays%20thatt%E5%A5%B9%20%E4%BB%96%20%E4%BB%96%E4%BB%AC%E8%AF%B4.pdf"
+  },
+  {
+    "code": "1-2-31",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L31 A postcard from jimmy吉米寄来的明信片.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL31%20A%20postcard%20from%20jimmy%E5%90%89%E7%B1%B3%E5%AF%84%E6%9D%A5%E7%9A%84%E6%98%8E%E4%BF%A1%E7%89%87.pdf"
+  },
+  {
+    "code": "1-2-32",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L32 he says 他说 他们说.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL32%20he%20says%20%E4%BB%96%E8%AF%B4%20%E4%BB%96%E4%BB%AC%E8%AF%B4.pdf"
+  },
+  {
+    "code": "1-2-33",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L33 The French test 法语测试.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL33%20The%20French%20test%20%E6%B3%95%E8%AF%AD%E6%B5%8B%E8%AF%95.pdf"
+  },
+  {
+    "code": "1-2-34",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L34 TOO VERY ENOUGH太非常足够.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL34%20TOO%20VERY%20ENOUGH%E5%A4%AA%E9%9D%9E%E5%B8%B8%E8%B6%B3%E5%A4%9F.pdf"
+  },
+  {
+    "code": "1-2-35",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L35 Full of mistakes 错误百出.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL35%20Full%20of%20mistakes%20%E9%94%99%E8%AF%AF%E7%99%BE%E5%87%BA.pdf"
+  },
+  {
+    "code": "1-2-36",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L36 I dont want you 我不想让你...pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL36%20I%20dont%20want%20you%20%E6%88%91%E4%B8%8D%E6%83%B3%E8%AE%A9%E4%BD%A0...pdf"
+  },
+  {
+    "code": "1-2-37",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L37 review3 复习.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL37%20review3%20%E5%A4%8D%E4%B9%A0.pdf"
+  },
+  {
+    "code": "1-2-38",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L38 midterm exam期中考试.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL38%20midterm%20exam%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf"
+  },
+  {
+    "code": "1-2-39",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L39 its too small 它太小了.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL39%20its%20too%20small%20%E5%AE%83%E5%A4%AA%E5%B0%8F%E4%BA%86.pdf"
+  },
+  {
+    "code": "1-2-40",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L40 HOW do they compare 他们如何比较.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL40%20HOW%20do%20they%20compare%20%E4%BB%96%E4%BB%AC%E5%A6%82%E4%BD%95%E6%AF%94%E8%BE%83.pdf"
+  },
+  {
+    "code": "1-2-41",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L41 A good idea 一个好主意.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL41%20A%20good%20idea%20%E4%B8%80%E4%B8%AA%E5%A5%BD%E4%B8%BB%E6%84%8F.pdf"
+  },
+  {
+    "code": "1-2-42",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L42how do they compare他们如何比较第二节.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL42how%20do%20they%20compare%E4%BB%96%E4%BB%AC%E5%A6%82%E4%BD%95%E6%AF%94%E8%BE%83%E7%AC%AC%E4%BA%8C%E8%8A%82.pdf"
+  },
+  {
+    "code": "1-2-43",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L43THE most expensive model最昂贵的型号.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL43THE%20most%20expensive%20model%E6%9C%80%E6%98%82%E8%B4%B5%E7%9A%84%E5%9E%8B%E5%8F%B7.pdf"
+  },
+  {
+    "code": "1-2-44",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L44 how do they compare他们如何比较第三节.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL44%20how%20do%20they%20compare%E4%BB%96%E4%BB%AC%E5%A6%82%E4%BD%95%E6%AF%94%E8%BE%83%E7%AC%AC%E4%B8%89%E8%8A%82.pdf"
+  },
+  {
+    "code": "1-2-45",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L45Small change 零钱.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL45Small%20change%20%E9%9B%B6%E9%92%B1.pdf"
+  },
+  {
+    "code": "1-2-46",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L46 i have none 我没有.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL46%20i%20have%20none%20%E6%88%91%E6%B2%A1%E6%9C%89.pdf"
+  },
+  {
+    "code": "1-2-47",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L47knock knock 有人吗.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL47knock%20knock%20%E6%9C%89%E4%BA%BA%E5%90%97.pdf"
+  },
+  {
+    "code": "1-2-48",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L48every no any and some每个无任何和一些.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL48every%20no%20any%20and%20some%E6%AF%8F%E4%B8%AA%E6%97%A0%E4%BB%BB%E4%BD%95%E5%92%8C%E4%B8%80%E4%BA%9B.pdf"
+  },
+  {
+    "code": "1-2-49",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L49Tommy's breakfast汤米的早餐.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL49Tommy%27s%20breakfast%E6%B1%A4%E7%B1%B3%E7%9A%84%E6%97%A9%E9%A4%90.pdf"
+  },
+  {
+    "code": "1-2-50",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L50what were you doing 你那时正在做什么.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL50what%20were%20you%20doing%20%E4%BD%A0%E9%82%A3%E6%97%B6%E6%AD%A3%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88.pdf"
+  },
+  {
+    "code": "1-2-51",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L51 A true story 一个真实的故事.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL51%20A%20true%20story%20%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%AE%9E%E7%9A%84%E6%95%85%E4%BA%8B.pdf"
+  },
+  {
+    "code": "1-2-52",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L52 it had already happened它已经发生了.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL52%20it%20had%20already%20happened%E5%AE%83%E5%B7%B2%E7%BB%8F%E5%8F%91%E7%94%9F%E4%BA%86.pdf"
+  },
+  {
+    "code": "1-2-53",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L53 review4复习课.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL53%20review4%E5%A4%8D%E4%B9%A0%E8%AF%BE.pdf"
+  },
+  {
+    "code": "1-2-54",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L54 THE MAN IN A HAT戴帽子的男士.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL54%20THE%20MAN%20IN%20A%20HAT%E6%88%B4%E5%B8%BD%E5%AD%90%E7%9A%84%E7%94%B7%E5%A3%AB.pdf"
+  },
+  {
+    "code": "1-2-55",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L55whowhichandthat 定语从句的关系代词.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL55whowhichandthat%20%E5%AE%9A%E8%AF%AD%E4%BB%8E%E5%8F%A5%E7%9A%84%E5%85%B3%E7%B3%BB%E4%BB%A3%E8%AF%8D.pdf"
+  },
+  {
+    "code": "1-2-56",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L56 A trip to Australia 澳大利亚之行.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL56%20A%20trip%20to%20Australia%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B9%8B%E8%A1%8C.pdf"
+  },
+  {
+    "code": "1-2-57",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L57whowhichandthat 定语从句的关系代词2.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL57whowhichandthat%20%E5%AE%9A%E8%AF%AD%E4%BB%8E%E5%8F%A5%E7%9A%84%E5%85%B3%E7%B3%BB%E4%BB%A3%E8%AF%8D2.pdf"
+  },
+  {
+    "code": "1-2-58",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L58 Tea for two 二人一起喝茶.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL58%20Tea%20for%20two%20%E4%BA%8C%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%96%9D%E8%8C%B6.pdf"
+  },
+  {
+    "code": "1-2-59",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L59Must haveto and needto 比较must haveto和needto.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL59Must%20haveto%20and%20needto%20%E6%AF%94%E8%BE%83must%20haveto%E5%92%8Cneedto.pdf"
+  },
+  {
+    "code": "1-2-60",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L60 A famous actress知名的女演员.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL60%20A%20famous%20actress%E7%9F%A5%E5%90%8D%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98.pdf"
+  },
+  {
+    "code": "1-2-61",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L61 HE cant be 他不可能是.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL61%20HE%20cant%20be%20%E4%BB%96%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%98%AF.pdf"
+  },
+  {
+    "code": "1-2-62",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L62 SEVENTY MILES AN HOUR 时速70英里.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL62%20SEVENTY%20MILES%20AN%20HOUR%20%E6%97%B6%E9%80%9F70%E8%8B%B1%E9%87%8C.pdf"
+  },
+  {
+    "code": "1-2-63",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L63 he cant have been 他那时不可能.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL63%20he%20cant%20have%20been%20%E4%BB%96%E9%82%A3%E6%97%B6%E4%B8%8D%E5%8F%AF%E8%83%BD.pdf"
+  },
+  {
+    "code": "1-2-64",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L64 Dont be so sure别那么肯定！.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL64%20Dont%20be%20so%20sure%E5%88%AB%E9%82%A3%E4%B9%88%E8%82%AF%E5%AE%9A%EF%BC%81.pdf"
+  },
+  {
+    "code": "1-2-65",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L65 he may be 他可能.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL65%20he%20may%20be%20%E4%BB%96%E5%8F%AF%E8%83%BD.pdf"
+  },
+  {
+    "code": "1-2-66",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L66 review5复习课.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL66%20review5%E5%A4%8D%E4%B9%A0%E8%AF%BE.pdf"
+  },
+  {
+    "code": "1-2-67",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L67Sensational News爆炸性的新闻.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL67Sensational%20News%E7%88%86%E7%82%B8%E6%80%A7%E7%9A%84%E6%96%B0%E9%97%BB.pdf"
+  },
+  {
+    "code": "1-2-68",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L68 He saidthat he他当时说他.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL68%20He%20saidthat%20he%E4%BB%96%E5%BD%93%E6%97%B6%E8%AF%B4%E4%BB%96.pdf"
+  },
+  {
+    "code": "1-2-69",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L69 The latest report最新报道.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL69%20The%20latest%20report%E6%9C%80%E6%96%B0%E6%8A%A5%E9%81%93.pdf"
+  },
+  {
+    "code": "1-2-70",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L70 He told me that he 他当时告诉我他.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL70%20He%20told%20me%20that%20he%20%E4%BB%96%E5%BD%93%E6%97%B6%E5%91%8A%E8%AF%89%E6%88%91%E4%BB%96.pdf"
+  },
+  {
+    "code": "1-2-71",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L71 A pleasant Dream 一个美好的梦.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL71%20A%20pleasant%20Dream%20%E4%B8%80%E4%B8%AA%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%A2%A6.pdf"
+  },
+  {
+    "code": "1-2-72",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L72 IF 如果.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL72%20IF%20%E5%A6%82%E6%9E%9C.pdf"
+  },
+  {
+    "code": "1-2-73",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L73 is this john speaking请问电话那头是约翰吗.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL73%20is%20this%20john%20speaking%E8%AF%B7%E9%97%AE%E7%94%B5%E8%AF%9D%E9%82%A3%E5%A4%B4%E6%98%AF%E7%BA%A6%E7%BF%B0%E5%90%97.pdf"
+  },
+  {
+    "code": "1-2-74",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L74he wants to know if 他想知道是否.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL74he%20wants%20to%20know%20if%20%E4%BB%96%E6%83%B3%E7%9F%A5%E9%81%93%E6%98%AF%E5%90%A6.pdf"
+  },
+  {
+    "code": "1-2-75",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L75Sally's first train ride萨利首次乘火车旅行.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL75Sally%27s%20first%20train%20ride%E8%90%A8%E5%88%A9%E9%A6%96%E6%AC%A1%E4%B9%98%E7%81%AB%E8%BD%A6%E6%97%85%E8%A1%8C.pdf"
+  },
+  {
+    "code": "1-2-76",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L76Someone invited sally to a party 有人邀请萨利出现一个派对.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL76Someone%20invited%20sally%20to%20a%20party%20%E6%9C%89%E4%BA%BA%E9%82%80%E8%AF%B7%E8%90%A8%E5%88%A9%E5%87%BA%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%B4%BE%E5%AF%B9.pdf"
+  },
+  {
+    "code": "1-2-77",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L77 A walk through the woods林中散步.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL77%20A%20walk%20through%20the%20woods%E6%9E%97%E4%B8%AD%E6%95%A3%E6%AD%A5.pdf"
+  },
+  {
+    "code": "1-2-78",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L78 He hasnt been served yet 还没有人来招待他.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL78%20He%20hasnt%20been%20served%20yet%20%E8%BF%98%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%9D%A5%E6%8B%9B%E5%BE%85%E4%BB%96.pdf"
+  },
+  {
+    "code": "1-2-79",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L79 review6复习课6.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL79%20review6%E5%A4%8D%E4%B9%A0%E8%AF%BE6.pdf"
+  },
+  {
+    "code": "1-2-80",
+    "parentCode": "1-2",
+    "type": "TEXTBOOK",
+    "name": "L80 Final speaking practice 期末口语练习课.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F1%E5%86%8C%E4%B8%8B%2FL80%20Final%20speaking%20practice%20%E6%9C%9F%E6%9C%AB%E5%8F%A3%E8%AF%AD%E7%BB%83%E4%B9%A0%E8%AF%BE.pdf"
+  },
+  {
+    "code": "1-3",
+    "parentCode": "1",
+    "type": "TEXTBOOK",
+    "name": "2册上",
+    "link": null
+  },
+  {
+    "code": "1-3-1",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L1 A private conversation 私人谈话.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL1%20A%20private%20conversation%20%E7%A7%81%E4%BA%BA%E8%B0%88%E8%AF%9D.pdf"
+  },
+  {
+    "code": "1-3-2",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L2 A private conversation B 私人谈话B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL2%20A%20private%20conversation%20B%20%E7%A7%81%E4%BA%BA%E8%B0%88%E8%AF%9DB.pdf"
+  },
+  {
+    "code": "1-3-3",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L3 Breakast or lunch A早餐还是午餐A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL3%20Breakast%20or%20lunch%20A%E6%97%A9%E9%A4%90%E8%BF%98%E6%98%AF%E5%8D%88%E9%A4%90A.pdf"
+  },
+  {
+    "code": "1-3-4",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L4 Breakfast or lunch B早餐还是午餐B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL4%20Breakfast%20or%20lunch%20B%E6%97%A9%E9%A4%90%E8%BF%98%E6%98%AF%E5%8D%88%E9%A4%90B.pdf"
+  },
+  {
+    "code": "1-3-5",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L5please send me a card请给我寄一张明信片A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL5please%20send%20me%20a%20card%E8%AF%B7%E7%BB%99%E6%88%91%E5%AF%84%E4%B8%80%E5%BC%A0%E6%98%8E%E4%BF%A1%E7%89%87A.pdf"
+  },
+  {
+    "code": "1-3-6",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L6Please send me a card请给我寄一张明信片B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL6Please%20send%20me%20a%20card%E8%AF%B7%E7%BB%99%E6%88%91%E5%AF%84%E4%B8%80%E5%BC%A0%E6%98%8E%E4%BF%A1%E7%89%87B.pdf"
+  },
+  {
+    "code": "1-3-7",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L7 An exciting trip 激动人心的旅行.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL7%20An%20exciting%20trip%20%E6%BF%80%E5%8A%A8%E4%BA%BA%E5%BF%83%E7%9A%84%E6%97%85%E8%A1%8C.pdf"
+  },
+  {
+    "code": "1-3-8",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L8 an exciting trip激动人心的旅行B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL8%20an%20exciting%20trip%E6%BF%80%E5%8A%A8%E4%BA%BA%E5%BF%83%E7%9A%84%E6%97%85%E8%A1%8CB.pdf"
+  },
+  {
+    "code": "1-3-9",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L9 No wrong numbers无错号之虞A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL9%20No%20wrong%20numbers%E6%97%A0%E9%94%99%E5%8F%B7%E4%B9%8B%E8%99%9EA.pdf"
+  },
+  {
+    "code": "1-3-10",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L10No wrong numbers无错号之虞B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL10No%20wrong%20numbers%E6%97%A0%E9%94%99%E5%8F%B7%E4%B9%8B%E8%99%9EB.pdf"
+  },
+  {
+    "code": "1-3-11",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L11 Percy Buttons 珀西 巴顿斯A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL11%20Percy%20Buttons%20%E7%8F%80%E8%A5%BF%20%E5%B7%B4%E9%A1%BF%E6%96%AFA.pdf"
+  },
+  {
+    "code": "1-3-12",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L12 Percy Buttons 珀西 巴顿斯B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL12%20Percy%20Buttons%20%E7%8F%80%E8%A5%BF%20%E5%B7%B4%E9%A1%BF%E6%96%AFB.pdf"
+  },
+  {
+    "code": "1-3-13",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L13 Too late 为时太晚A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL13%20Too%20late%20%E4%B8%BA%E6%97%B6%E5%A4%AA%E6%99%9AA.pdf"
+  },
+  {
+    "code": "1-3-14",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L14 Too late 为时太晚B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL14%20Too%20late%20%E4%B8%BA%E6%97%B6%E5%A4%AA%E6%99%9AB.pdf"
+  },
+  {
+    "code": "1-3-15",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L15The best and the worst最好的和最差的.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL15The%20best%20and%20the%20worst%E6%9C%80%E5%A5%BD%E7%9A%84%E5%92%8C%E6%9C%80%E5%B7%AE%E7%9A%84.pdf"
+  },
+  {
+    "code": "1-3-16",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L16The best and the worst最好的和最差的B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL16The%20best%20and%20the%20worst%E6%9C%80%E5%A5%BD%E7%9A%84%E5%92%8C%E6%9C%80%E5%B7%AE%E7%9A%84B.pdf"
+  },
+  {
+    "code": "1-3-17",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L17Acold welcome 冷遇A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL17Acold%20welcome%20%E5%86%B7%E9%81%87A.pdf"
+  },
+  {
+    "code": "1-3-18",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L18Acold welcome 冷遇B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL18Acold%20welcome%20%E5%86%B7%E9%81%87B.pdf"
+  },
+  {
+    "code": "1-3-19",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L19 Not For jazz 不适合演奏爵士乐A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL19%20Not%20For%20jazz%20%E4%B8%8D%E9%80%82%E5%90%88%E6%BC%94%E5%A5%8F%E7%88%B5%E5%A3%AB%E4%B9%90A.pdf"
+  },
+  {
+    "code": "1-3-20",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L20 Not For jazz 不适合演奏爵士乐B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL20%20Not%20For%20jazz%20%E4%B8%8D%E9%80%82%E5%90%88%E6%BC%94%E5%A5%8F%E7%88%B5%E5%A3%AB%E4%B9%90B.pdf"
+  },
+  {
+    "code": "1-3-21",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L21 One good turn deserves another礼尚往来A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL21%20One%20good%20turn%20deserves%20another%E7%A4%BC%E5%B0%9A%E5%BE%80%E6%9D%A5A.pdf"
+  },
+  {
+    "code": "1-3-22",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L22 One good turn deserves another礼尚往来B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL22%20One%20good%20turn%20deserves%20another%E7%A4%BC%E5%B0%9A%E5%BE%80%E6%9D%A5B.pdf"
+  },
+  {
+    "code": "1-3-23",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L23 Review1 复习课1.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL23%20Review1%20%E5%A4%8D%E4%B9%A0%E8%AF%BE1.pdf"
+  },
+  {
+    "code": "1-3-24",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L24 Goodbye and goodluck再见一路顺风A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL24%20Goodbye%20and%20goodluck%E5%86%8D%E8%A7%81%E4%B8%80%E8%B7%AF%E9%A1%BA%E9%A3%8EA.pdf"
+  },
+  {
+    "code": "1-3-25",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L25 Goodbye and goodluck再见一路顺风B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL25%20Goodbye%20and%20goodluck%E5%86%8D%E8%A7%81%E4%B8%80%E8%B7%AF%E9%A1%BA%E9%A3%8EB.pdf"
+  },
+  {
+    "code": "1-3-26",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L26 The Greenwood Boys绿林少年A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL26%20The%20Greenwood%20Boys%E7%BB%BF%E6%9E%97%E5%B0%91%E5%B9%B4A.pdf"
+  },
+  {
+    "code": "1-3-27",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L27 The Greenwood Boys绿林少年B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL27%20The%20Greenwood%20Boys%E7%BB%BF%E6%9E%97%E5%B0%91%E5%B9%B4B.pdf"
+  },
+  {
+    "code": "1-3-28",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L28 Do you speak english 你会讲英语吗A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL28%20Do%20you%20speak%20english%20%E4%BD%A0%E4%BC%9A%E8%AE%B2%E8%8B%B1%E8%AF%AD%E5%90%97A.pdf"
+  },
+  {
+    "code": "1-3-29",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L29 Do you speak english 你会讲英语吗B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL29%20Do%20you%20speak%20english%20%E4%BD%A0%E4%BC%9A%E8%AE%B2%E8%8B%B1%E8%AF%AD%E5%90%97B.pdf"
+  },
+  {
+    "code": "1-3-30",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L30 Good news佳音A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL30%20Good%20news%E4%BD%B3%E9%9F%B3A.pdf"
+  },
+  {
+    "code": "1-3-31",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L31 Good news佳音B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL31%20Good%20news%E4%BD%B3%E9%9F%B3B.pdf"
+  },
+  {
+    "code": "1-3-32",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L32 A polite request 彬彬有礼的要求A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL32%20A%20polite%20request%20%E5%BD%AC%E5%BD%AC%E6%9C%89%E7%A4%BC%E7%9A%84%E8%A6%81%E6%B1%82A.pdf"
+  },
+  {
+    "code": "1-3-33",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L33 A polite request 彬彬有礼的要求B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL33%20A%20polite%20request%20%E5%BD%AC%E5%BD%AC%E6%9C%89%E7%A4%BC%E7%9A%84%E8%A6%81%E6%B1%82B.pdf"
+  },
+  {
+    "code": "1-3-34",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L34 Always Young青春常驻A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL34%20Always%20Young%E9%9D%92%E6%98%A5%E5%B8%B8%E9%A9%BBA.pdf"
+  },
+  {
+    "code": "1-3-35",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L35 Always Young青春常驻B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL35%20Always%20Young%E9%9D%92%E6%98%A5%E5%B8%B8%E9%A9%BBB.pdf"
+  },
+  {
+    "code": "1-3-36",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L36 He often does this他经查干这种事.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL36%20He%20often%20does%20this%E4%BB%96%E7%BB%8F%E6%9F%A5%E5%B9%B2%E8%BF%99%E7%A7%8D%E4%BA%8B.pdf"
+  },
+  {
+    "code": "1-3-37",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L37 He often does this他经查干这种事B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL37%20He%20often%20does%20this%E4%BB%96%E7%BB%8F%E6%9F%A5%E5%B9%B2%E8%BF%99%E7%A7%8D%E4%BA%8BB.pdf"
+  },
+  {
+    "code": "1-3-38",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L38 Sold out 票已售完.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL38%20Sold%20out%20%E7%A5%A8%E5%B7%B2%E5%94%AE%E5%AE%8C.pdf"
+  },
+  {
+    "code": "1-3-39",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L39 Sold out 票已售完B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL39%20Sold%20out%20%E7%A5%A8%E5%B7%B2%E5%94%AE%E5%AE%8CB.pdf"
+  },
+  {
+    "code": "1-3-40",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L40 One man in a boat独坐孤舟A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL40%20One%20man%20in%20a%20boat%E7%8B%AC%E5%9D%90%E5%AD%A4%E8%88%9FA.pdf"
+  },
+  {
+    "code": "1-3-41",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L41 One man in a boat独坐孤舟B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL41%20One%20man%20in%20a%20boat%E7%8B%AC%E5%9D%90%E5%AD%A4%E8%88%9FB.pdf"
+  },
+  {
+    "code": "1-3-42",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L42 Mad or not 是不是疯了A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL42%20Mad%20or%20not%20%E6%98%AF%E4%B8%8D%E6%98%AF%E7%96%AF%E4%BA%86A.pdf"
+  },
+  {
+    "code": "1-3-43",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L43 Mad or not 是不是疯了B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL43%20Mad%20or%20not%20%E6%98%AF%E4%B8%8D%E6%98%AF%E7%96%AF%E4%BA%86B.pdf"
+  },
+  {
+    "code": "1-3-44",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L44 A glass envelope玻璃信封A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL44%20A%20glass%20envelope%E7%8E%BB%E7%92%83%E4%BF%A1%E5%B0%81A.pdf"
+  },
+  {
+    "code": "1-3-45",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L45 A glass envelope玻璃信封B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL45%20A%20glass%20envelope%E7%8E%BB%E7%92%83%E4%BF%A1%E5%B0%81B.pdf"
+  },
+  {
+    "code": "1-3-46",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L46 A new house 新居A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL46%20A%20new%20house%20%E6%96%B0%E5%B1%85A.pdf"
+  },
+  {
+    "code": "1-3-47",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L47 A new house 新居B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL47%20A%20new%20house%20%E6%96%B0%E5%B1%85B.pdf"
+  },
+  {
+    "code": "1-3-48",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L48 it could be worse不幸中之万幸.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL48%20it%20could%20be%20worse%E4%B8%8D%E5%B9%B8%E4%B8%AD%E4%B9%8B%E4%B8%87%E5%B9%B8.pdf"
+  },
+  {
+    "code": "1-3-49",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L50 REVIEW 2.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL50%20REVIEW%202.pdf"
+  },
+  {
+    "code": "1-3-50",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L51 Do the English speak english 英国人讲的是英语吗.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL51%20Do%20the%20English%20speak%20english%20%E8%8B%B1%E5%9B%BD%E4%BA%BA%E8%AE%B2%E7%9A%84%E6%98%AF%E8%8B%B1%E8%AF%AD%E5%90%97.pdf"
+  },
+  {
+    "code": "1-3-51",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L52 Do the English speak english 英国人讲的是英语吗B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL52%20Do%20the%20English%20speak%20english%20%E8%8B%B1%E5%9B%BD%E4%BA%BA%E8%AE%B2%E7%9A%84%E6%98%AF%E8%8B%B1%E8%AF%AD%E5%90%97B.pdf"
+  },
+  {
+    "code": "1-3-52",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L53 The best art critics最佳艺术评论家A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL53%20The%20best%20art%20critics%E6%9C%80%E4%BD%B3%E8%89%BA%E6%9C%AF%E8%AF%84%E8%AE%BA%E5%AE%B6A.pdf"
+  },
+  {
+    "code": "1-3-53",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L54 The best art critics最佳艺术评论家B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL54%20The%20best%20art%20critics%E6%9C%80%E4%BD%B3%E8%89%BA%E6%9C%AF%E8%AF%84%E8%AE%BA%E5%AE%B6B.pdf"
+  },
+  {
+    "code": "1-3-54",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L55 A Wet night雨夜A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL55%20A%20Wet%20night%E9%9B%A8%E5%A4%9CA.pdf"
+  },
+  {
+    "code": "1-3-55",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L56 A Wet night雨夜B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL56%20A%20Wet%20night%E9%9B%A8%E5%A4%9CB.pdf"
+  },
+  {
+    "code": "1-3-56",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L57 No Parking禁止停车A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL57%20No%20Parking%E7%A6%81%E6%AD%A2%E5%81%9C%E8%BD%A6A.pdf"
+  },
+  {
+    "code": "1-3-57",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L58 No Parking禁止停车B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL58%20No%20Parking%E7%A6%81%E6%AD%A2%E5%81%9C%E8%BD%A6B.pdf"
+  },
+  {
+    "code": "1-3-58",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L59 TAXI 出租汽车 A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL59%20TAXI%20%E5%87%BA%E7%A7%9F%E6%B1%BD%E8%BD%A6%20A.pdf"
+  },
+  {
+    "code": "1-3-59",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L60 TAXI 出租汽车 B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL60%20TAXI%20%E5%87%BA%E7%A7%9F%E6%B1%BD%E8%BD%A6%20B.pdf"
+  },
+  {
+    "code": "1-3-60",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L61 Football or polo 足球还是水球A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL61%20Football%20or%20polo%20%E8%B6%B3%E7%90%83%E8%BF%98%E6%98%AF%E6%B0%B4%E7%90%83A.pdf"
+  },
+  {
+    "code": "1-3-61",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L62 Football or polo 足球还是水球B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL62%20Football%20or%20polo%20%E8%B6%B3%E7%90%83%E8%BF%98%E6%98%AF%E6%B0%B4%E7%90%83B.pdf"
+  },
+  {
+    "code": "1-3-62",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L63 Success story成功者的故事A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL63%20Success%20story%E6%88%90%E5%8A%9F%E8%80%85%E7%9A%84%E6%95%85%E4%BA%8BA.pdf"
+  },
+  {
+    "code": "1-3-63",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L64 Success story成功者的故事B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL64%20Success%20story%E6%88%90%E5%8A%9F%E8%80%85%E7%9A%84%E6%95%85%E4%BA%8BB.pdf"
+  },
+  {
+    "code": "1-3-64",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L65 Shopping made easy购物变得很方便A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL65%20Shopping%20made%20easy%E8%B4%AD%E7%89%A9%E5%8F%98%E5%BE%97%E5%BE%88%E6%96%B9%E4%BE%BFA.pdf"
+  },
+  {
+    "code": "1-3-65",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L66 Shopping made easy购物变得很方便B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL66%20Shopping%20made%20easy%E8%B4%AD%E7%89%A9%E5%8F%98%E5%BE%97%E5%BE%88%E6%96%B9%E4%BE%BFB.pdf"
+  },
+  {
+    "code": "1-3-66",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L67 Out of the darkness冲破黑暗A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL67%20Out%20of%20the%20darkness%E5%86%B2%E7%A0%B4%E9%BB%91%E6%9A%97A.pdf"
+  },
+  {
+    "code": "1-3-67",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L68 Out of the darkness冲破黑暗B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL68%20Out%20of%20the%20darkness%E5%86%B2%E7%A0%B4%E9%BB%91%E6%9A%97B.pdf"
+  },
+  {
+    "code": "1-3-68",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L69 Quick work 破案神速A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL69%20Quick%20work%20%E7%A0%B4%E6%A1%88%E7%A5%9E%E9%80%9FA.pdf"
+  },
+  {
+    "code": "1-3-69",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L70 Quick work 破案神速B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL70%20Quick%20work%20%E7%A0%B4%E6%A1%88%E7%A5%9E%E9%80%9FB.pdf"
+  },
+  {
+    "code": "1-3-70",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L71 Stop thief 捉贼 A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL71%20Stop%20thief%20%E6%8D%89%E8%B4%BC%20A.pdf"
+  },
+  {
+    "code": "1-3-71",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L72 Stop thief 捉贼 B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL72%20Stop%20thief%20%E6%8D%89%E8%B4%BC%20B.pdf"
+  },
+  {
+    "code": "1-3-72",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L73 REVIEW3.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL73%20REVIEW3.pdf"
+  },
+  {
+    "code": "1-3-73",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L74 Across the Channel 横渡英吉利海峡A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL74%20Across%20the%20Channel%20%E6%A8%AA%E6%B8%A1%E8%8B%B1%E5%90%89%E5%88%A9%E6%B5%B7%E5%B3%A1A.pdf"
+  },
+  {
+    "code": "1-3-74",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L75 Across the Channel 横渡英吉利海峡B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL75%20Across%20the%20Channel%20%E6%A8%AA%E6%B8%A1%E8%8B%B1%E5%90%89%E5%88%A9%E6%B5%B7%E5%B3%A1B.pdf"
+  },
+  {
+    "code": "1-3-75",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L76 The olympic Games 奥林匹克运动会A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL76%20The%20olympic%20Games%20%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9AA.pdf"
+  },
+  {
+    "code": "1-3-76",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L77 The olympic Games 奥林匹克运动会B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL77%20The%20olympic%20Games%20%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9AB.pdf"
+  },
+  {
+    "code": "1-3-77",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L78 Everything except the weather唯独没有考虑到天气.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL78%20Everything%20except%20the%20weather%E5%94%AF%E7%8B%AC%E6%B2%A1%E6%9C%89%E8%80%83%E8%99%91%E5%88%B0%E5%A4%A9%E6%B0%94.pdf"
+  },
+  {
+    "code": "1-3-78",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L79 Everything except the weather唯独没有考虑到天气B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL79%20Everything%20except%20the%20weather%E5%94%AF%E7%8B%AC%E6%B2%A1%E6%9C%89%E8%80%83%E8%99%91%E5%88%B0%E5%A4%A9%E6%B0%94B.pdf"
+  },
+  {
+    "code": "1-3-79",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L80 AM I All right 我痊愈了吗A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL80%20AM%20I%20All%20right%20%E6%88%91%E7%97%8A%E6%84%88%E4%BA%86%E5%90%97A.pdf"
+  },
+  {
+    "code": "1-3-80",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L81 AM I All right 我痊愈了吗B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL81%20AM%20I%20All%20right%20%E6%88%91%E7%97%8A%E6%84%88%E4%BA%86%E5%90%97B.pdf"
+  },
+  {
+    "code": "1-3-81",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L82 Food And talk进食与交谈.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL82%20Food%20And%20talk%E8%BF%9B%E9%A3%9F%E4%B8%8E%E4%BA%A4%E8%B0%88.pdf"
+  },
+  {
+    "code": "1-3-82",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L83 Food And talk进食与交谈B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL83%20Food%20And%20talk%E8%BF%9B%E9%A3%9F%E4%B8%8E%E4%BA%A4%E8%B0%88B.pdf"
+  },
+  {
+    "code": "1-3-83",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L84 Do you call that a hat你把那个叫帽子吗A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL84%20Do%20you%20call%20that%20a%20hat%E4%BD%A0%E6%8A%8A%E9%82%A3%E4%B8%AA%E5%8F%AB%E5%B8%BD%E5%AD%90%E5%90%97A.pdf"
+  },
+  {
+    "code": "1-3-84",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L85 Do you call that a hat你把那个叫帽子吗B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL85%20Do%20you%20call%20that%20a%20hat%E4%BD%A0%E6%8A%8A%E9%82%A3%E4%B8%AA%E5%8F%AB%E5%B8%BD%E5%AD%90%E5%90%97B.pdf"
+  },
+  {
+    "code": "1-3-85",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L86 Not very musical 并非很懂音乐A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL86%20Not%20very%20musical%20%E5%B9%B6%E9%9D%9E%E5%BE%88%E6%87%82%E9%9F%B3%E4%B9%90A.pdf"
+  },
+  {
+    "code": "1-3-86",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L87 Not very musical 并非很懂音乐B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL87%20Not%20very%20musical%20%E5%B9%B6%E9%9D%9E%E5%BE%88%E6%87%82%E9%9F%B3%E4%B9%90B.pdf"
+  },
+  {
+    "code": "1-3-87",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L88 Over the south Pole 飞跃南极A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL88%20Over%20the%20south%20Pole%20%E9%A3%9E%E8%B7%83%E5%8D%97%E6%9E%81A.pdf"
+  },
+  {
+    "code": "1-3-88",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L89 Over the south Pole 飞跃南极B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL89%20Over%20the%20south%20Pole%20%E9%A3%9E%E8%B7%83%E5%8D%97%E6%9E%81B.pdf"
+  },
+  {
+    "code": "1-3-89",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L90 Through the forest 穿过森林A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL90%20Through%20the%20forest%20%E7%A9%BF%E8%BF%87%E6%A3%AE%E6%9E%97A.pdf"
+  },
+  {
+    "code": "1-3-90",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L91 Through the forest 穿过森林B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL91%20Through%20the%20forest%20%E7%A9%BF%E8%BF%87%E6%A3%AE%E6%9E%97B.pdf"
+  },
+  {
+    "code": "1-3-91",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L92 A clear conscience问心无愧A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL92%20A%20clear%20conscience%E9%97%AE%E5%BF%83%E6%97%A0%E6%84%A7A.pdf"
+  },
+  {
+    "code": "1-3-92",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L93 A clear conscience问心无愧B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL93%20A%20clear%20conscience%E9%97%AE%E5%BF%83%E6%97%A0%E6%84%A7B.pdf"
+  },
+  {
+    "code": "1-3-93",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L94 Expensive and uncomfortable 既昂贵又受罪A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL94%20Expensive%20and%20uncomfortable%20%E6%97%A2%E6%98%82%E8%B4%B5%E5%8F%88%E5%8F%97%E7%BD%AAA.pdf"
+  },
+  {
+    "code": "1-3-94",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L95 Expensive and uncomfortable 既昂贵又受罪B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL95%20Expensive%20and%20uncomfortable%20%E6%97%A2%E6%98%82%E8%B4%B5%E5%8F%88%E5%8F%97%E7%BD%AAB.pdf"
+  },
+  {
+    "code": "1-3-95",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L96 A thirsty ghost嗜酒的鬼魂A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL96%20A%20thirsty%20ghost%E5%97%9C%E9%85%92%E7%9A%84%E9%AC%BC%E9%AD%82A.pdf"
+  },
+  {
+    "code": "1-3-96",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L97 A thirsty ghost嗜酒的鬼魂B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL97%20A%20thirsty%20ghost%E5%97%9C%E9%85%92%E7%9A%84%E9%AC%BC%E9%AD%82B.pdf"
+  },
+  {
+    "code": "1-3-97",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L98 Did you want to tell me你想对我说什么吗A.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL98%20Did%20you%20want%20to%20tell%20me%E4%BD%A0%E6%83%B3%E5%AF%B9%E6%88%91%E8%AF%B4%E4%BB%80%E4%B9%88%E5%90%97A.pdf"
+  },
+  {
+    "code": "1-3-98",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L99 Did you want to tell me你想对我说什么吗B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL99%20Did%20you%20want%20to%20tell%20me%E4%BD%A0%E6%83%B3%E5%AF%B9%E6%88%91%E8%AF%B4%E4%BB%80%E4%B9%88%E5%90%97B.pdf"
+  },
+  {
+    "code": "1-3-99",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "L100 REVIEW 4.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FL100%20REVIEW%204.pdf"
+  },
+  {
+    "code": "1-3-100",
+    "parentCode": "1-3",
+    "type": "TEXTBOOK",
+    "name": "iL49 it could be worse不幸中之万幸B.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8A%2FiL49%20it%20could%20be%20worse%E4%B8%8D%E5%B9%B8%E4%B8%AD%E4%B9%8B%E4%B8%87%E5%B9%B8B.pdf"
+  },
+  {
+    "code": "1-4",
+    "parentCode": "1",
+    "type": "TEXTBOOK",
+    "name": "2册下",
+    "link": null
+  },
+  {
+    "code": "1-4-1",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "001 The end of a dream (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F001%20The%20end%20of%20a%20dream%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-2",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "002The end of a dream (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F002The%20end%20of%20a%20dream%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-3",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "003 Taken for a ride (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F003%20Taken%20for%20a%20ride%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-4",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "004 Taken for a ride (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F004%20Taken%20for%20a%20ride%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-5",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "005 Reward for virtue (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F005%20Reward%20for%20virtue%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-6",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "006.Reward for virtue (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F006.Reward%20for%20virtue%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-7",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "007 A pretty carpet (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F007%20A%20pretty%20carpet%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-8",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "008A pretty carpet (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F008A%20pretty%20carpet%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-9",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "009 Hot snake (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F009%20Hot%20snake%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-10",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "010 Hot snake (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F010%20Hot%20snake%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-11",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "011 Sticky fingers (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F011%20Sticky%20fingers%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-12",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "012 Sticky fingers (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F012%20Sticky%20fingers%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-13",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "013 Not a gold mine (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F013%20Not%20a%20gold%20mine%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-14",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "014 Not a gold mine (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F014%20Not%20a%20gold%20mine%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-15",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "015 Faster than sound (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F015%20Faster%20than%20sound%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-16",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "016 Faster than sound (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F016%20Faster%20than%20sound%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-17",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "019 A blessing in disguise (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F019%20A%20blessing%20in%20disguise%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-18",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "020 A blessing in disguise (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F020%20A%20blessing%20in%20disguise%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-19",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "023 Revision 1.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F023%20Revision%201.pdf"
+  },
+  {
+    "code": "1-4-20",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "024 The future (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F024%20The%20future%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-21",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "025 The future (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F025%20The%20future%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-22",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "026 Trouble with the Hubble (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F026%20Trouble%20with%20the%20Hubble%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-23",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "027 Trouble with the Hubble (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F027%20Trouble%20with%20the%20Hubble%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-24",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "028 After the fire (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F028%20After%20the%20fire%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-25",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "029 After the fire (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F029%20After%20the%20fire%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-26",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "030 She was not amused (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F030%20She%20was%20not%20amused%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-27",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "031  She was not amused (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F031%20%20She%20was%20not%20amused%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-28",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "032 The Channel Tunnel (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F032%20The%20Channel%20Tunnel%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-29",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "033 The Channel Tunnel (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F033%20The%20Channel%20Tunnel%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-30",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "034 Jumbo versus the police (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F034%20Jumbo%20versus%20the%20police%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-31",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "035 Jumbo versus the police (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F035%20Jumbo%20versus%20the%20police%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-32",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "036 Sweet as honey (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F036%20Sweet%20as%20honey%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-33",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "037 Sweet as honey (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F037%20Sweet%20as%20honey%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-34",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "038 Volcanoes (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F038%20Volcanoes%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-35",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "039 Volcanoes (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F039%20Volcanoes%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-36",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "040 Persistent (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F040%20Persistent%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-37",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "041 Persistent (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F041%20Persistent%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-38",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "042 But not murder (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F042%20But%20not%20murder%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-39",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "043 But not murder (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F043%20But%20not%20murder%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-40",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "044 Red for danger (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F044%20Red%20for%20danger%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-41",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "045 Red for danger (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F045%20Red%20for%20danger%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-42",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "046 A famous clock (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F046%20A%20famous%20clock%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-43",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "047 A famous clock (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F047%20A%20famous%20clock%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-44",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "048 A car called Bluebird (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F048%20A%20car%20called%20Bluebird%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-45",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "049 A car called Bluebird (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F049%20A%20car%20called%20Bluebird%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-46",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "050 Revision 2.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F050%20Revision%202.pdf"
+  },
+  {
+    "code": "1-4-47",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "051 The record-holder (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F051%20The%20record-holder%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-48",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "052 The record-holder (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F052%20The%20record-holder%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-49",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "053 Out of the limelight (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F053%20Out%20of%20the%20limelight%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-50",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "054 Out of the limelight (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F054%20Out%20of%20the%20limelight%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-51",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "055 SOS (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F055%20SOS%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-52",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "056 SOS (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F056%20SOS%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-53",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "057 April Fools' Day (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F057%20April%20Fools%27%20Day%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-54",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "058 April Fools' Day (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F058%20April%20Fools%27%20Day%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-55",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "059 A successful operation (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F059%20A%20successful%20operation%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-56",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "060 A successful operation (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F060%20A%20successful%20operation%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-57",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "063 By air (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F063%20By%20air%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-58",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "064 By air (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F064%20By%20air%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-59",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "065 The Crystal Palace (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F065%20The%20Crystal%20Palace%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-60",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "066 The Crystal Palace (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F066%20The%20Crystal%20Palace%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-61",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "067 Escape (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F067%20Escape%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-62",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "068 Escape (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F068%20Escape%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-63",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "071 After the election (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F071%20After%20the%20election%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-64",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "072 After the election (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F072%20After%20the%20election%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-65",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "073 Revision 3.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F073%20Revision%203.pdf"
+  },
+  {
+    "code": "1-4-66",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "074 On strike (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F074%20On%20strike%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-67",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "075 On strike (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F075%20On%20strike%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-68",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "076 Never too old to learn (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F076%20Never%20too%20old%20to%20learn%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-69",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "077 Never too old to learn (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F077%20Never%20too%20old%20to%20learn%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-70",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "078 Out of control (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F078%20Out%20of%20control%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-71",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "079 Out of control (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F079%20Out%20of%20control%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-72",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "080 A perfect alibi (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F080%20A%20perfect%20alibi%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-73",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "081 A perfect alibi (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F081%20A%20perfect%20alibi%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-74",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "082 Trapped in a mine (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F082%20Trapped%20in%20a%20mine%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-75",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "083 Trapped in a mine (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F083%20Trapped%20in%20a%20mine%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-76",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "084 A slip of the tongue (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F084%20A%20slip%20of%20the%20tongue%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-77",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "085 A slip of the tongue (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F085%20A%20slip%20of%20the%20tongue%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-78",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "088 Three men in a basket (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F088%20Three%20men%20in%20a%20basket%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-79",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "089 Three men in a basket (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F089%20Three%20men%20in%20a%20basket%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-80",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "090 Asking for trouble (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F090%20Asking%20for%20trouble%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-81",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "091 Asking for trouble (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F091%20Asking%20for%20trouble%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-82",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "092 A noble gift (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F092%20A%20noble%20gift%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-83",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "093 A noble gift (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F093%20A%20noble%20gift%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-84",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "094 Future champions (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F094%20Future%20champions%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-85",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "095 Future champions (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F095%20Future%20champions%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-86",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "096 A fantasy (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F096%20A%20fantasy%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-87",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "097 A fantasy (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F097%20A%20fantasy%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-88",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "098 The dead return (A).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F098%20The%20dead%20return%20%28A%29.pdf"
+  },
+  {
+    "code": "1-4-89",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "099 The dead return (B).pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F099%20The%20dead%20return%20%28B%29.pdf"
+  },
+  {
+    "code": "1-4-90",
+    "parentCode": "1-4",
+    "type": "TEXTBOOK",
+    "name": "100 Revision 4.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F2%E5%86%8C%E4%B8%8B%2F100%20Revision%204.pdf"
+  },
+  {
+    "code": "1-5",
+    "parentCode": "1",
+    "type": "TEXTBOOK",
+    "name": "3册下",
+    "link": null
+  },
+  {
+    "code": "1-5-1",
+    "parentCode": "1-5",
+    "type": "TEXTBOOK",
+    "name": "L1.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F3%E5%86%8C%E4%B8%8B%2FL1.pdf"
+  },
+  {
+    "code": "1-5-2",
+    "parentCode": "1-5",
+    "type": "TEXTBOOK",
+    "name": "L2.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F3%E5%86%8C%E4%B8%8B%2FL2.pdf"
+  },
+  {
+    "code": "1-5-3",
+    "parentCode": "1-5",
+    "type": "TEXTBOOK",
+    "name": "L3.pdf",
+    "link": "http://pdf.lingora.cn/8%E6%96%B0%E6%A6%82%E5%BF%B5%2F3%E5%86%8C%E4%B8%8B%2FL3.pdf"
+  }
+]
