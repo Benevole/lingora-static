@@ -169,6 +169,79 @@
             opacity: 1;
         }
 
+        .file-actions {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .preview-link {
+            color: #17a2b8;
+        }
+
+        .preview-link:hover {
+            color: #138496;
+        }
+
+        /* PDF预览模态框样式 */
+        .pdf-modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.8);
+        }
+
+        .pdf-modal-content {
+            position: relative;
+            width: 95%;
+            height: 95%;
+            margin: 2.5% auto;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .pdf-modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #dee2e6;
+        }
+
+        .pdf-modal-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .pdf-modal-close {
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: #666;
+            padding: 5px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+
+        .pdf-modal-close:hover {
+            background: #e9ecef;
+            color: #333;
+        }
+
+        .pdf-iframe {
+            width: 100%;
+            height: calc(100% - 70px);
+            border: none;
+        }
+
         @media (max-width: 768px) {
             .container {
                 padding: 15px;
@@ -189,6 +262,21 @@
 
             .textbook-card h3 {
                 font-size: 1.2rem;
+            }
+
+            .pdf-modal-content {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                border-radius: 0;
+            }
+
+            .pdf-modal-header {
+                padding: 10px 15px;
+            }
+
+            .pdf-modal-title {
+                font-size: 1rem;
             }
         }
     </style>
@@ -247,6 +335,17 @@
                     <p>彩虹英语系列教材，73课系统化课程，包含phonics、revision等多样化内容</p>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <!-- PDF预览模态框 -->
+    <div id="pdfModal" class="pdf-modal">
+        <div class="pdf-modal-content">
+            <div class="pdf-modal-header">
+                <div class="pdf-modal-title" id="pdfModalTitle">PDF预览</div>
+                <button class="pdf-modal-close" onclick="closePDFPreview()">&times;</button>
+            </div>
+            <iframe id="pdfIframe" class="pdf-iframe" src=""></iframe>
         </div>
     </div>
 
@@ -380,7 +479,10 @@
                     ${files.map(file => `
                         <div class="file-item">
                             <span class="file-name">📄 ${file.name}</span>
-                            <a href="${file.link}" target="_blank" class="file-link">查看</a>
+                            <div class="file-actions">
+                                <a href="${file.link}" target="_blank" class="file-link preview-link" onclick="openPDFPreview(event, '${file.link}', '${file.name}')">预览</a>
+                                <a href="${file.link}" target="_blank" class="file-link">查看</a>
+                            </div>
                         </div>
                     `).join('')}
                 </div>
@@ -483,7 +585,10 @@
                     ${files.map(file => `
                         <div class="file-item">
                             <span class="file-name">📄 ${file.name}</span>
-                            <a href="${file.link}" target="_blank" class="file-link">查看</a>
+                            <div class="file-actions">
+                                <a href="${file.link}" target="_blank" class="file-link preview-link" onclick="openPDFPreview(event, '${file.link}', '${file.name}')">预览</a>
+                                <a href="${file.link}" target="_blank" class="file-link">查看</a>
+                            </div>
                         </div>
                     `).join('')}
                 </div>
@@ -509,6 +614,58 @@
             currentData = null;
             renderTextbooks(allTextbooks);
         }
+
+        // PDF预览功能
+        function openPDFPreview(event, pdfUrl, fileName) {
+            event.preventDefault();
+            
+            const modal = document.getElementById('pdfModal');
+            const iframe = document.getElementById('pdfIframe');
+            const title = document.getElementById('pdfModalTitle');
+            
+            // 设置标题
+            title.textContent = fileName;
+            
+            // 设置PDF URL（添加#view=FitH参数以确保在浏览器中预览）
+            iframe.src = pdfUrl + '#view=FitH';
+            
+            // 显示模态框
+            modal.style.display = 'block';
+            
+            // 禁止背景滚动
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closePDFPreview() {
+            const modal = document.getElementById('pdfModal');
+            const iframe = document.getElementById('pdfIframe');
+            
+            // 隐藏模态框
+            modal.style.display = 'none';
+            
+            // 清空iframe源
+            iframe.src = '';
+            
+            // 恢复背景滚动
+            document.body.style.overflow = 'auto';
+        }
+
+        // 点击模态框背景关闭
+        document.addEventListener('DOMContentLoaded', function() {
+            const modal = document.getElementById('pdfModal');
+            modal.addEventListener('click', function(event) {
+                if (event.target === modal) {
+                    closePDFPreview();
+                }
+            });
+
+            // 键盘ESC键关闭模态框
+            document.addEventListener('keydown', function(event) {
+                if (event.key === 'Escape' && modal.style.display === 'block') {
+                    closePDFPreview();
+                }
+            });
+        });
     </script>
 </body>
 </html>
